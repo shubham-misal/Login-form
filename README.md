@@ -7,8 +7,8 @@ A normal Login form, using switch case statement in javascript.
 <hr>
 <div align="center">
   <img src="loginnemail.png" style="height:100%;width:822px;">
-  <img src="wr1.png" style="height:100%;width:822px;">
 <img src="loginn2.png" style="height:100%;width:822px;">
+  <img src="wr1.png" style="height:100%;width:822px;">
   <img src="wr2.png" style="height:100%;width:822px;">
 </div>
 <hr>
